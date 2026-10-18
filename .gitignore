@@ -1,6 +1,4 @@
 .build/
-temp_auto_push.bat
 dist/
 .DS_Store
 .gitignore
-branch_structure.json
